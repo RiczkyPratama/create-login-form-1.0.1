@@ -13,7 +13,7 @@ JOptionPane is a class in the javax.swing package that provides functions for di
 
 Overall, the declaration "package login" groups login-related classes into a package named "login", while "import javax.swing.JOptionPane;" imports the JOptionPane class for use in the program's code.
 
-=========================================================================================
+=========================================================================
 
 Dalam bahasa Java, deklarasi "package login" digunakan untuk mengelompokkan kelas-kelas yang terkait dengan login ke dalam paket atau package yang disebut "login".
 Package adalah cara untuk mengatur dan mengelompokkan kelas-kelas yang memiliki fungsi atau tujuan yang serupa.
