@@ -3,8 +3,7 @@ This repository was created by Riczky Pratama which contains instructions on how
 
 Explanation of the coding file "Login_Application.java" is here and is divided into two languages, English and Indonesian. If you want to see the Indonesian language. Scroll and see the readme at the bottom. Thank You.
 
-#APA ITU "package login;" DAN "import javax.swing.JOptionPane;" ?
-
+APA ITU "package login;" DAN "import javax.swing.JOptionPane;" ?
 Dalam bahasa Java, deklarasi "package login" digunakan untuk mengelompokkan kelas-kelas yang terkait dengan login ke dalam paket atau package yang disebut "login".
 Package adalah cara untuk mengatur dan mengelompokkan kelas-kelas yang memiliki fungsi atau tujuan yang serupa.
 
